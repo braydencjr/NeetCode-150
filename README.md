@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/braydencjr/NeetCode-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/braydencjr/NeetCode-150/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/braydencjr/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/braydencjr/NeetCode-150/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/braydencjr/NeetCode-150/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/braydencjr/NeetCode-150/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/braydencjr/NeetCode-150/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
