@@ -105,4 +105,5 @@
 | [1661-average-time-of-process-per-machine](https://github.com/braydencjr/NeetCode-150/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/braydencjr/NeetCode-150/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/braydencjr/NeetCode-150/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/braydencjr/NeetCode-150/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
