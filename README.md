@@ -41,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/braydencjr/NeetCode-150/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/braydencjr/NeetCode-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/braydencjr/NeetCode-150/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/braydencjr/NeetCode-150/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -85,6 +86,7 @@
 | [0015-3sum](https://github.com/braydencjr/NeetCode-150/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/braydencjr/NeetCode-150/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/braydencjr/NeetCode-150/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/braydencjr/NeetCode-150/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/braydencjr/NeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
 ## Database
 |  |
 | ------- |
