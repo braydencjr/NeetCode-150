@@ -18,6 +18,7 @@
 | [0605-can-place-flowers](https://github.com/braydencjr/NeetCode-150/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/braydencjr/NeetCode-150/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/braydencjr/NeetCode-150/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/braydencjr/NeetCode-150/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/braydencjr/NeetCode-150/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/braydencjr/NeetCode-150/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
