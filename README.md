@@ -20,6 +20,7 @@
 | [0724-find-pivot-index](https://github.com/braydencjr/NeetCode-150/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/braydencjr/NeetCode-150/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/braydencjr/NeetCode-150/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/braydencjr/NeetCode-150/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/braydencjr/NeetCode-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/braydencjr/NeetCode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/braydencjr/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/braydencjr/NeetCode-150/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
