@@ -50,6 +50,7 @@
 | [0242-valid-anagram](https://github.com/braydencjr/NeetCode-150/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/braydencjr/NeetCode-150/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/braydencjr/NeetCode-150/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,4 +131,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/braydencjr/NeetCode-150/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/braydencjr/NeetCode-150/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/braydencjr/NeetCode-150/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
