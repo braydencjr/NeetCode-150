@@ -49,6 +49,7 @@
 | [0125-valid-palindrome](https://github.com/braydencjr/NeetCode-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/braydencjr/NeetCode-150/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
+| [0649-dota2-senate](https://github.com/braydencjr/NeetCode-150/tree/master/0649-dota2-senate) |
 | [1768-merge-strings-alternately](https://github.com/braydencjr/NeetCode-150/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/braydencjr/NeetCode-150/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
@@ -103,6 +104,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/braydencjr/NeetCode-150/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/braydencjr/NeetCode-150/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/braydencjr/NeetCode-150/tree/master/0649-dota2-senate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/braydencjr/NeetCode-150/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/braydencjr/NeetCode-150/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
