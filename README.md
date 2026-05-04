@@ -99,6 +99,7 @@
 | [0283-move-zeroes](https://github.com/braydencjr/NeetCode-150/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/braydencjr/NeetCode-150/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/braydencjr/NeetCode-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/braydencjr/NeetCode-150/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/braydencjr/NeetCode-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
