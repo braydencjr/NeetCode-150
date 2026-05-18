@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/braydencjr/NeetCode-150/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/braydencjr/NeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/braydencjr/NeetCode-150/tree/master/0128-longest-consecutive-sequence) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/braydencjr/NeetCode-150/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/braydencjr/NeetCode-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/braydencjr/NeetCode-150/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/braydencjr/NeetCode-150/tree/master/0283-move-zeroes) |
@@ -193,6 +194,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/braydencjr/NeetCode-150/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/braydencjr/NeetCode-150/tree/master/0374-guess-number-higher-or-lower) |
 | [0700-search-in-a-binary-search-tree](https://github.com/braydencjr/NeetCode-150/tree/master/0700-search-in-a-binary-search-tree) |
 ## Interactive
