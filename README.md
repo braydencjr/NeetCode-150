@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/braydencjr/NeetCode-150/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/braydencjr/NeetCode-150/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/braydencjr/NeetCode-150/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/braydencjr/NeetCode-150/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/braydencjr/NeetCode-150/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/braydencjr/NeetCode-150/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -35,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/braydencjr/NeetCode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/braydencjr/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/braydencjr/NeetCode-150/tree/master/1207-unique-number-of-occurrences) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/braydencjr/NeetCode-150/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
@@ -44,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/braydencjr/NeetCode-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/braydencjr/NeetCode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/braydencjr/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | [0125-valid-palindrome](https://github.com/braydencjr/NeetCode-150/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/braydencjr/NeetCode-150/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/braydencjr/NeetCode-150/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/braydencjr/NeetCode-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
