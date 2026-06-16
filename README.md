@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/braydencjr/NeetCode-150/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/braydencjr/NeetCode-150/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/braydencjr/NeetCode-150/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/braydencjr/NeetCode-150/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/braydencjr/NeetCode-150/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/braydencjr/NeetCode-150/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/braydencjr/NeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -226,6 +227,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/braydencjr/NeetCode-150/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/braydencjr/NeetCode-150/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/braydencjr/NeetCode-150/tree/master/0374-guess-number-higher-or-lower) |
 | [0700-search-in-a-binary-search-tree](https://github.com/braydencjr/NeetCode-150/tree/master/0700-search-in-a-binary-search-tree) |
