@@ -63,6 +63,7 @@
 | [0242-valid-anagram](https://github.com/braydencjr/NeetCode-150/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/braydencjr/NeetCode-150/tree/master/0394-decode-string) |
+| [0443-string-compression](https://github.com/braydencjr/NeetCode-150/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/braydencjr/NeetCode-150/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/braydencjr/NeetCode-150/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/braydencjr/NeetCode-150/tree/master/1657-determine-if-two-strings-are-close) |
@@ -118,6 +119,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/braydencjr/NeetCode-150/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/braydencjr/NeetCode-150/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/braydencjr/NeetCode-150/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/braydencjr/NeetCode-150/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/braydencjr/NeetCode-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
