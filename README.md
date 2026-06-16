@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/braydencjr/NeetCode-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/braydencjr/NeetCode-150/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/braydencjr/NeetCode-150/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/braydencjr/NeetCode-150/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/braydencjr/NeetCode-150/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/braydencjr/NeetCode-150/tree/master/0643-maximum-average-subarray-i) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/braydencjr/NeetCode-150/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/braydencjr/NeetCode-150/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/braydencjr/NeetCode-150/tree/master/0649-dota2-senate) |
 ## Dynamic Programming
