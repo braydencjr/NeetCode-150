@@ -26,6 +26,7 @@
 | [1732-find-the-highest-altitude](https://github.com/braydencjr/NeetCode-150/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/braydencjr/NeetCode-150/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/braydencjr/NeetCode-150/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/braydencjr/NeetCode-150/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/braydencjr/NeetCode-150/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/braydencjr/NeetCode-150/tree/master/0036-valid-sudoku) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/braydencjr/NeetCode-150/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2352-equal-row-and-column-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/2352-equal-row-and-column-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/braydencjr/NeetCode-150/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
