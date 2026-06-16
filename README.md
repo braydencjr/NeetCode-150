@@ -60,6 +60,7 @@
 | [0125-valid-palindrome](https://github.com/braydencjr/NeetCode-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/braydencjr/NeetCode-150/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/braydencjr/NeetCode-150/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/braydencjr/NeetCode-150/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/braydencjr/NeetCode-150/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/braydencjr/NeetCode-150/tree/master/1657-determine-if-two-strings-are-close) |
@@ -157,6 +158,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/braydencjr/NeetCode-150/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/braydencjr/NeetCode-150/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/braydencjr/NeetCode-150/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/braydencjr/NeetCode-150/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/braydencjr/NeetCode-150/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
