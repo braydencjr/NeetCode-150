@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/braydencjr/NeetCode-150/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/braydencjr/NeetCode-150/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/braydencjr/NeetCode-150/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/braydencjr/NeetCode-150/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/braydencjr/NeetCode-150/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/braydencjr/NeetCode-150/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/braydencjr/NeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/braydencjr/NeetCode-150/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Database
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/braydencjr/NeetCode-150/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/braydencjr/NeetCode-150/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/braydencjr/NeetCode-150/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
