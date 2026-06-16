@@ -58,6 +58,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/braydencjr/NeetCode-150/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/braydencjr/NeetCode-150/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/braydencjr/NeetCode-150/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/braydencjr/NeetCode-150/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/braydencjr/NeetCode-150/tree/master/0394-decode-string) |
@@ -113,6 +114,7 @@
 | [0011-container-with-most-water](https://github.com/braydencjr/NeetCode-150/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/braydencjr/NeetCode-150/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/braydencjr/NeetCode-150/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/braydencjr/NeetCode-150/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/braydencjr/NeetCode-150/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/braydencjr/NeetCode-150/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/braydencjr/NeetCode-150/tree/master/1679-max-number-of-k-sum-pairs) |
